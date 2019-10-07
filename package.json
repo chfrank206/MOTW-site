@@ -1,13 +1,14 @@
 {
-  "name": "barebones-react-typescript-express",
+  "name": "fun-conspiracy-site",
   "version": "1.0.0",
-  "description": "",
+  "description": "This site is for an overly elaborate Halloween costume! My spouse and I are being conspiracy theorists, and I thought it would be fun to have a dummy site to force on people filled with crazy conspiracies and theories. To get the millage out of this site I plan to turn it into a campaign site for a tabletop RPG called Monster of the Week (it's super fun, so you should check it out).",
   "main": "dist/server.js",
   "scripts": {
     "watch:build": "npx webpack -w",
     "watch:server": "nodemon dist/server.js",
     "dev": "npm-run-all --parallel watch:*",
-    "start": "node dist/server.js"
+    "start": "node dist/server.js",
+    "scss": "node-sass --watch scss -o css"
   },
   "keywords": [],
   "author": "",
