@@ -9,7 +9,7 @@ const Sidebar: React.SFC<ISidebarProps> = () => {
     return (
         <>
 
-            <div className="sidebar">
+            <div className="sidenav">
                 <a href="#">About</a>
                 <a href="#">Services</a>
                 <a href="#">Clients</a>
