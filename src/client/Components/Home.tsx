@@ -14,18 +14,20 @@ const Home: React.SFC<IHomeProps> = () => {
                 <img className="ufo-sign" src="images/warning-ufo-sign.jpg" alt=""/>
 
                 <hr/>
-                <p><span className="site-by">Site by: </span><span className="p6 signature-color">Delson Lord Ravenrain</span></p>
+                <p><span className="site-by p1">Site by: </span><span className="p6 signature-color">Delson Lord Ravenrain</span></p>
                 <hr/>
 
-                <p className="text-color site-font">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Curabitur vitae nunc sed velit. Vitae justo eget magna fermentum. Nisi vitae suscipit tellus mauris a diam maecenas. Facilisis magna etiam tempor orci eu lobortis elementum nibh tellus. Sit amet est placerat in egestas. Et odio pellentesque diam volutpat commodo sed egestas egestas. Donec massa sapien faucibus et. Habitant morbi tristique senectus et netus et. Egestas dui id ornare arcu. Adipiscing commodo elit at imperdiet dui accumsan sit amet. At lectus urna duis convallis convallis tellus. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum odio. Posuere morbi leo urna molestie at elementum. Venenatis tellus in metus vulputate eu.</p>
+                <h3>*Disclaimer at the bottom of this page*</h3>
+
+                <p className="text-color site-font">You are being told lies! Fake news is the new normal, don’t listen to the man! I have seen with new eyes the reality THEY try to conceal. Who are THEY you ask? The Bureau of Change and Coalescence! Otherwise known as the BCC, THEY want to take what makes the people of the US so great and FORCE us to believe that nothing is out there in the dark night. Don’t let the name fool you! The BCC is hidden deeply in the annals of the government, and their name is directly converse to their true intention. The purpose of the BCC is to directly disrupt the facts that are coming out of the paranormal and extraterrestrial discoveries that are being spread by the brave people in our community.</p>
 
                 <hr/>
 
-                <img className="image" src="images/bigfoot.jpg" alt="bigfoot"/>
+                <img className="anon-mask" src="images/anon-mask.jpg" alt="bigfoot"/>
 
                 <hr/>
 
-                <p className="text-color site-font">Fermentum et sollicitudin ac orci phasellus egestas tellus rutrum tellus. Vel turpis nunc eget lorem dolor sed viverra. Massa sapien faucibus et molestie ac. Donec ac odio tempor orci. Tellus cras adipiscing enim eu turpis egestas. Id ornare arcu odio ut. A arcu cursus vitae congue mauris rhoncus aenean. Vehicula ipsum a arcu cursus vitae congue mauris rhoncus aenean. In iaculis nunc sed augue lacus. Tellus orci ac auctor augue mauris augue neque. Nulla facilisi etiam dignissim diam quis. Nibh cras pulvinar mattis nunc. Quisque non tellus orci ac auctor augue. Iaculis urna id volutpat lacus. Odio tempor orci dapibus ultrices in iaculis nunc sed augue. Suspendisse faucibus interdum posuere lorem ipsum dolor. Adipiscing elit duis tristique sollicitudin. Sit amet tellus cras adipiscing enim eu turpis egestas. Id aliquet risus feugiat in ante metus dictum at tempor.</p>
+                <p className="text-color site-font">Need proof? Grab any Kennedy half dollar. Above the eagle on the back are the familiar Latin words, “E Pluribus Unum.” If you add the number of the letters together with the letters in Kennedy you get the number 20. Subtract 20 from the number of states and you get 30. Take that and subtract it from 35 (Kennedy was the 35th president) to get 5. Divide the number of states by 5 and you get 10, WHICH IS THE NUMBER OF DEPARTMENTS IN THE BUREAU OF CHANGE AND COALESCENCE! Coincidence? No! There is no coincidence in the game of disclosure! The proof is there people! You have to believe in your third eye and look past their ruse!</p>
 
                 <hr/>
 
@@ -33,7 +35,7 @@ const Home: React.SFC<IHomeProps> = () => {
 
                 <hr/>
 
-                <p className="text-color site-font">Vitae aliquet nec ullamcorper sit amet risus nullam eget felis. Auctor augue mauris augue neque gravida. Mauris cursus mattis molestie a iaculis. Aliquam purus sit amet luctus venenatis lectus magna. Nullam non nisi est sit amet facilisis. Neque gravida in fermentum et. Adipiscing elit pellentesque habitant morbi. Donec et odio pellentesque diam volutpat. Quis commodo odio aenean sed adipiscing diam donec. Nisi scelerisque eu ultrices vitae. Pretium viverra suspendisse potenti nullam ac tortor vitae purus faucibus. Sit amet justo donec enim diam vulputate. Amet venenatis urna cursus eget nunc scelerisque viverra. Tincidunt ornare massa eget egestas purus viverra. Eu consequat ac felis donec et odio. Nunc sed augue lacus viverra vitae congue eu consequat. Ut pharetra sit amet aliquam id diam maecenas. Tellus at urna condimentum mattis pellentesque id nibh tortor id.</p>
+                <p className="text-color site-font">The coverup is vast, as the BCC masters the art lies they make their coverup more convincing by the day. They have scores of highly trained deceivers altering information and silencing those trying to speak the truth. Since the colonization of the English territories in North America the BCC has existed in some shape or form. The native American tribes new of the strange creatures of the darkness and how to avoid them, but the minds of the invading people were too modernized; they were unable to cope with the strangeness that inhabited the world. With all their might they formed progenitor groups of the BCC to hide that strangeness, strangling parts of it that had societies of their own and a will to see those societies thrive. We live on top of the graves of countless cultures… Others, not lucky enough to die in secret wars, toil under our feet…</p>
 
                 <hr/>
 
@@ -50,10 +52,12 @@ const Home: React.SFC<IHomeProps> = () => {
                 <hr/>
 
                 <p className="text-color site-font">Mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Eros donec ac odio tempor orci dapibus ultrices in. Elementum tempus egestas sed sed risus pretium quam vulputate. Cursus risus at ultrices mi tempus imperdiet nulla malesuada. Ac tincidunt vitae semper quis lectus nulla at volutpat diam. Faucibus et molestie ac feugiat sed lectus vestibulum. Viverra aliquet eget sit amet. Hac habitasse platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper. Pulvinar mattis nunc sed blandit libero volutpat. Ultricies tristique nulla aliquet enim tortor at auctor urna nunc. Lorem donec massa sapien faucibus et. Lacus sed turpis tincidunt id aliquet risus feugiat in ante. Porttitor eget dolor morbi non arcu risus quis. Ante metus dictum at tempor commodo.</p>
-                
+
                 <hr/>
 
                 <img className="image" src="images/ufo2.jpg" alt=""/>
+
+                <h3 className="disclaim">*All of the content of this website is ENTIRELY FALSE. It was created by a truly bored web developer that got way to into creating a three dimensional Halloween costume. Some of it the cryptid information is pulled from public records, but other than that the information is my own. If you take this content as fact that is entirely on you, but I hope at the very least you get a good laugh out of everything! If you would like to hire me as a developer or a writer please email Hayden Frank at chfrank9011@gmail.com. After Halloween this site will become a tool for my Monter of the Week campaign story. It's a pretty cool game you should check out!*</h3>
 
             </div>
 
