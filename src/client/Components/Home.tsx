@@ -43,7 +43,7 @@ const Home: React.SFC<IHomeProps> = () => {
 
                 <hr/>
 
-                <p className="text-color site-font">Est sit amet facilisis magna etiam. Enim ut tellus elementum sagittis vitae et leo duis. Donec ultrices tincidunt arcu non sodales neque sodales ut. Tincidunt dui ut ornare lectus sit amet est placerat. Id aliquet risus feugiat in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Bibendum at varius vel pharetra vel turpis nunc eget. Malesuada pellentesque elit eget gravida cum sociis natoque. Risus ultricies tristique nulla aliquet enim. Quam viverra orci sagittis eu volutpat odio. Cras pulvinar mattis nunc sed blandit libero volutpat sed. Montes nascetur ridiculus mus mauris vitae ultricies. Tristique nulla aliquet enim tortor at auctor urna nunc. Suspendisse sed nisi lacus sed viverra tellus in hac. Lorem donec massa sapien faucibus. Eros in cursus turpis massa tincidunt. Bibendum at varius vel pharetra vel. Fames ac turpis egestas maecenas pharetra convallis posuere morbi leo.</p>
+                <p className="text-color site-font">In the pages of this humble site you will see some of what has been lost and what is being hidden from you. You are not alone! We are not alone! Don’t let them continue their lies! One of their more sinister plots is to distract the populace with one of the most detrimental things to the human body… A poor nights sleep! They invented memory foam technology in 1965, knowing it was hot and uncomfortable. It feels good for the first half-hour, just long enough for you to fall asleep, but THEY DESIGNED IT TO LOSE ITS FIRMNESS AFTER YOUR BODY HEATS IT UP. They actually stole the technology from the reptilians, who are cold blooded, and therefore get A GREAT NIGHT OF SLEEP. They’ll be prepared when they rise up...</p>
 
                 <hr/>
                 
@@ -57,7 +57,7 @@ const Home: React.SFC<IHomeProps> = () => {
 
                 <img className="image" src="images/ufo2.jpg" alt=""/>
 
-                <h3 className="disclaim">*All of the content of this website is ENTIRELY FALSE. It was created by a truly bored web developer that got way to into creating a three dimensional Halloween costume. Some of it the cryptid information is pulled from public records, but other than that the information is my own. If you take this content as fact that is entirely on you, but I hope at the very least you get a good laugh out of everything! If you would like to hire me as a developer or a writer please email Hayden Frank at chfrank9011@gmail.com. After Halloween this site will become a tool for my Monter of the Week campaign story. It's a pretty cool game you should check out!*</h3>
+                <h3 className="disclaim">*All of the content of this website is a gag. It was created by a truly bored web developer that got way to into creating a three dimensional Halloween costume. Some of it the cryptid information is pulled from public records, but other than that the information is my own. If you take this content as fact that is entirely on you, but I hope at the very least you get a good laugh out of everything! If you would like to hire me as a developer or a writer please email Hayden Frank at chfrank9011@gmail.com. After Halloween this site will become a tool for my Monter of the Week campaign story. It's a pretty cool game you should check out!*</h3>
 
             </div>
 
